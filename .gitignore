@@ -1,3 +1,7 @@
 __pycache__/
-.ipynb_checkpoints/
 .env
+venv/
+.ipynb_checkpoints/
+data/raw/
+embeddings/
+*.log
